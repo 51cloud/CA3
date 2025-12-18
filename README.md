@@ -12,7 +12,7 @@ We hope that this open-source project will support personalized assessments and 
 
 # Framework
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/51cloud/HID/blob/main/image/framework.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/51cloud/HID/blob/main/image/framework.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/51cloud/HID/blob/main/image/framework.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/51cloud/CA3/framework.pdf">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/51cloud/CA3/framework.pdf">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/51cloud/CA3/framework.pdf">
 </picture>

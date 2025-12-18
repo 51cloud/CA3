@@ -9,3 +9,10 @@ In this GitHub repository, users will have access to:
 - The multimodal datasets used, including EEG, eye-tracking, and facial expression recordings, enabling users to test and validate the model in practical applications.
 - Detailed guidance on the preprocessing and data alignment methods used in the experiments, allowing users to replicate our research findings.
 We hope that this open-source project will support personalized assessments and intervention strategies for children with ASD, promoting the advancement of research and applications in the relevant fields.
+
+# Framework
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/51cloud/HID/blob/main/image/framework.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/51cloud/HID/blob/main/image/framework.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/51cloud/HID/blob/main/image/framework.png">
+</picture>

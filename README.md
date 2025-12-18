@@ -16,3 +16,25 @@ We hope that this open-source project will support personalized assessments and 
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/51cloud/CA3/framework.pdf">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/51cloud/CA3/framework.pdf">
 </picture>
+
+## Requirements
+We provide a large set of baseline results and trained models available for download in the [Model Zoo](MODEL_ZOO.md).
+
+Please find installation instructions for CA3 in [INSTALL.md](INSTALL.md). 
+
+## How to download the datasets
+The full datasets can be downloaded via: 
+['Google Drive']()
+
+## Quick Start
+
+Follow the example in [GETTING_STARTED.md](GETTING_STARTED.md) to start playing video models with CA3.
+
+## Visualization Tools
+
+We offer a range of visualization tools for the train/eval/test processes, model analysis, and for running inference with trained model.
+More information at [Visualization Tools](VISUALIZATION_TOOLS.md).
+
+## Citing PySlowFast
+If you find CA3 useful in your research, please use the following BibTeX entry for citation.
+```BibTeX

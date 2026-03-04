@@ -11,10 +11,10 @@ In this GitHub repository, users will have access to:
 We hope that this open-source project will support personalized assessments and intervention strategies for children with ASD, promoting the advancement of research and applications in the relevant fields.
 
 # Framework
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/51cloud/CA3/framework.pdf">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/51cloud/CA3/framework.pdf">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/51cloud/CA3/figures/framework.png">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/51cloud/CA3/main/framework_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/51cloud/CA3/main/framework_light.png">
+  <img alt="Framework" src="https://raw.githubusercontent.com/51cloud/CA3/main/figures/framework.png">
 </picture>
 
 ## Requirements

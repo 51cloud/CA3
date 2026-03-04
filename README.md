@@ -12,8 +12,6 @@ We hope that this open-source project will support personalized assessments and 
 
 # Framework
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/51cloud/CA3/main/framework_dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/51cloud/CA3/main/framework_light.png">
   <img alt="Framework" src="https://raw.githubusercontent.com/51cloud/CA3/main/figures/framework.png">
 </picture>
 

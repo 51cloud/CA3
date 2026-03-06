@@ -26,11 +26,6 @@ The full datasets can be downloaded via:
 
 Follow the example in [GETTING_STARTED.md](GETTING_STARTED.md) to start playing models with CA3.
 
-## Visualization Tools
-
-We offer a range of visualization tools for the train/eval/test processes, model analysis, and for running inference with trained model.
-More information at [Visualization Tools](VISUALIZATION_TOOLS.md).
-
 ## Citing PySlowFast
 If you find CA3 useful in your research, please use the following BibTeX entry for citation.
 ```BibTeX

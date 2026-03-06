@@ -1,6 +1,6 @@
 # Getting Started with CA3
 
-This document provides a brief intro of launching jobs in PySlowFast for training and testing. Before launching any job, make sure you have properly installed the settings following the instruction in [README.md](README.md) and you have prepared the dataset following [DATASET.md](DATASET.md) with the correct format.
+This document provides a brief intro of launching jobs in PySlowFast for training and testing. Before launching any job, make sure you have properly installed the settings following the instruction in [README.md](README.md) with the correct format.
 
 ## Train a Standard Model from Scratch
 

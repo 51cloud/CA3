@@ -16,8 +16,6 @@ We hope that this open-source project will support personalized assessments and 
 </picture>
 
 ## Requirements
-We provide a large set of baseline results and trained models available for download in the [Model Zoo](MODEL_ZOO.md).
-
 Please find installation instructions for CA3 in [INSTALL.md](INSTALL.md). 
 
 ## How to download the datasets

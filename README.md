@@ -22,11 +22,11 @@ Please find installation instructions for CA3 in [INSTALL.md](INSTALL.md).
 
 ## How to download the datasets
 The full datasets can be downloaded via: 
-['Google Drive']()
+['Google Drive'](https://drive.google.com/drive/folders/1t_VjuymRClYesPGt0lC4v6A1nssWr3FO?usp=sharing)
 
 ## Quick Start
 
-Follow the example in [GETTING_STARTED.md](GETTING_STARTED.md) to start playing video models with CA3.
+Follow the example in [GETTING_STARTED.md](GETTING_STARTED.md) to start playing models with CA3.
 
 ## Visualization Tools
 
